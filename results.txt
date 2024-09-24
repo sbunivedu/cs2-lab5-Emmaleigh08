@@ -1,0 +1,49 @@
+RESULTS:
+
+customers:100
+Number of cashiers: 1
+Average time: 5317
+
+customers:100
+Number of cashiers: 2
+Average time: 2325
+
+customers:100
+Number of cashiers: 3
+Average time: 1332
+
+customers:100
+Number of cashiers: 4
+Average time: 840
+
+customers:100
+Number of cashiers: 5
+Average time: 547
+
+customers:100
+Number of cashiers: 6
+Average time: 355
+
+customers:100
+Number of cashiers: 7
+Average time: 219
+
+customers:100
+Number of cashiers: 8
+Average time: 120
+
+customers:100
+Number of cashiers: 9
+Average time: 120
+
+customers:100
+Number of cashiers: 10
+Average time: 120
+
+
+PARAGRAPH ANALYSIS:
+
+This result makes sense because as the number of cashiers increases,
+the wait time decreases until you reach 8 cashiers. 15*8 = 120, therefore at 8
+cashiers the wait time will stay at 120 seconds as that is the amount of time
+required to process one customer.
